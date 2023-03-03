@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/AS_IS/bin/Debug/net7.0/AS_IS
+/Users/yellobunny/Projects/c_sharp/AS_IS/bin/Debug/net7.0/AS_IS.deps.json
+/Users/yellobunny/Projects/c_sharp/AS_IS/bin/Debug/net7.0/AS_IS.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/AS_IS/bin/Debug/net7.0/AS_IS.dll
+/Users/yellobunny/Projects/c_sharp/AS_IS/bin/Debug/net7.0/AS_IS.pdb
+/Users/yellobunny/Projects/c_sharp/AS_IS/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.dll
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/refint/AS_IS.dll
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.pdb
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/AS_IS.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/AS_IS/obj/Debug/net7.0/ref/AS_IS.dll
